@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recat-account/static/css/main.c2330d41.css",
-    "main.js": "/recat-account/static/js/main.06de8831.js",
-    "static/js/787.c13088a6.chunk.js": "/recat-account/static/js/787.c13088a6.chunk.js",
-    "index.html": "/recat-account/index.html",
-    "main.c2330d41.css.map": "/recat-account/static/css/main.c2330d41.css.map",
-    "main.06de8831.js.map": "/recat-account/static/js/main.06de8831.js.map",
-    "787.c13088a6.chunk.js.map": "/recat-account/static/js/787.c13088a6.chunk.js.map"
+    "main.css": "/react-account/static/css/main.c2330d41.css",
+    "main.js": "/react-account/static/js/main.2ba7517d.js",
+    "static/js/787.c13088a6.chunk.js": "/react-account/static/js/787.c13088a6.chunk.js",
+    "index.html": "/react-account/index.html",
+    "main.c2330d41.css.map": "/react-account/static/css/main.c2330d41.css.map",
+    "main.2ba7517d.js.map": "/react-account/static/js/main.2ba7517d.js.map",
+    "787.c13088a6.chunk.js.map": "/react-account/static/js/787.c13088a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2330d41.css",
-    "static/js/main.06de8831.js"
+    "static/js/main.2ba7517d.js"
   ]
 }
